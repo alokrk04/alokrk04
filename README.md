@@ -2,6 +2,7 @@
 
 
 # 💫 About Me:
+Aspirant Data Scientist/Analyst. 'Being eager to learn new things'.
 I’m seeking an opportunity with an organization to utilize my skills and enhanced learning in the field I work.
 
 
