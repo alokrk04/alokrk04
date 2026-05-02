@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" />
-  <h1>Hi there, I'm Alok Kondebettu 👋</h1>
-  <h3>Data Scientist | AI/ML Enthusiast | Full-Stack Developer</h3>
+  <h1>Hi there, I'm Alok Kondebettu </h1>
+  <h3>Data Analyst/Scientist | AI/ML Enthusiast</h3>
   <p>Based in Bengaluru, India 🌍</p>
 </div>
 
