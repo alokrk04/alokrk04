@@ -12,7 +12,7 @@
 I am a passionate Data Scientist and Computer Science student (Class of 2026) with a strong foundation in Python, SQL, statistics, and machine learning. I love tackling real-world problems by building robust predictive models and wrapping them in clean, modern web applications. 
 
 - 🎓 **Education:** Pursuing a B.E. in Computer Science (Current CGPA: 8.6).
-- 💼 **Experience:** Recently completed a 4-month data/tech internship at Amdox Technologies.
+- 💼 **Experience:** Recently completed a 3-month data/tech internship at Amdox Technologies.
 - 🧠 **Focus:** Deeply interested in Machine Learning, predictive modeling, and building privacy-focused, 100% local AI agents using RAG architectures.
 - 🚀 **Tech Philosophy:** I don't just build models; I deploy them. I actively use FastAPI and React to bring my AI projects to life on the web.
 - 🖥️ **Portfolio:** [Check out my work here](https://alokrk04-website-protfolio.netlify.app/)
