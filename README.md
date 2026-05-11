@@ -15,7 +15,7 @@ I am a passionate Data Scientist and Computer Science student (Class of 2026) wi
 - 💼 **Experience:** Recently completed a 3-month data/tech internship at Amdox Technologies.
 - 🧠 **Focus:** Deeply interested in Machine Learning, predictive modeling, and building privacy-focused, 100% local AI agents using RAG architectures.
 - 🚀 **Tech Philosophy:** I don't just build models; I deploy them. I actively use FastAPI and React to bring my AI projects to life on the web.
-- 🖥️ **Portfolio:** [Check out my work here](https://alokrk04-website-protfolio.netlify.app/)
+- 🖥️ **Portfolio:** [Check out my work here](https://alokrk-portfolio-website.netlify.app/)
 - ✉️ **Contact:** [alokrk04@gmail.com](mailto:alokrk04@gmail.com)
 
 ---
