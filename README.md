@@ -65,12 +65,6 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-# 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alokrk04/alokrk04/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
 ---
 
 # 🌐 Connect With Me
