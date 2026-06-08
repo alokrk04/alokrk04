@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1 align="center">Hi 👋, I'm Alok Kondebettu</h1>
-  <h3 align="center">Data Analyst/Scientist | AI/ML Enthusiast | Full-Stack Developer 🚀</h3>
+  <h3 align="center">Data Analyst/Scientist | AI/ML Enthusiast </h3>
   <img align="center" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </div>
 
