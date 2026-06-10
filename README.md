@@ -39,7 +39,7 @@ Private, local AI retrieval tool built using LangChain, Ollama (llama3.2), and C
 
 ### 📄 AI-Powered ATS Optimizer
 Modular full-stack application utilizing FastAPI and React to dynamically evaluate and enhance resumes.
-👉 https://github.com/alokrk04
+👉 https://github.com/alokrk04/AI-Powered-ATS-Resume-Optimizer
 
 ---
 
