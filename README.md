@@ -24,7 +24,7 @@
 ## 🛠️ Tools & Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,docker,kubernetes,git,github,linux)](https://skillicons.dev)
 
----
+-------------
 
 # 🚀 Featured Projects
 
@@ -41,7 +41,7 @@ Private, local AI retrieval tool built using LangChain, Ollama (llama3.2), and C
 Modular full-stack application utilizing FastAPI and React to dynamically evaluate and enhance resumes.
 👉 https://github.com/alokrk04/AI-Powered-ATS-Resume-Optimizer
 
----
+------------
 
 # 🔥 GitHub Streak
 
@@ -66,7 +66,7 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+--------------
 
 # 🌐 Connect With Me
 
@@ -85,6 +85,6 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
   </a>
 </p>
 
----
+---------------
 
 <h3 align="center">✨ Thanks for visiting! Let's build something impactful 🚀</h3>
