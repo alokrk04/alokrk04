@@ -96,4 +96,4 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 
 ---------------
 
-<h3 align="center">✨ Thanks for visiting! Let's build something impactful 🚀</h3>
+<h3 align="center"> ✨Let's build something impactful 🚀</h3>
