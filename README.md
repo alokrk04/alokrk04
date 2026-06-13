@@ -30,15 +30,18 @@
 
 ### 🩺 Skin Cancer Detection System
 Engineered a Convolutional Neural Network (CNN) achieving a 92% diagnostic accuracy rate.
+
 👉 https://github.com/alokrk04/skin
 
 ### 🤖 Local AI RAG Agent
 Private, local AI retrieval tool built using LangChain, Ollama (llama3.2), and ChromaDB.
+
 👉 https://github.com/alokrk04/Local-AI-Agnet-RAG
 
 
 ### 📄 AI-Powered ATS Optimizer
 Modular full-stack application utilizing FastAPI and React to dynamically evaluate and enhance resumes.
+
 👉 https://github.com/alokrk04/AI-Powered-ATS-Resume-Optimizer
 
 ------------
