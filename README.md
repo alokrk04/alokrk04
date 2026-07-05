@@ -28,13 +28,10 @@
 
 # 🚀 Featured Projects
 
-<br/>
-
 ### 🩺 Skin Cancer Detection System
 Engineered a Convolutional Neural Network (CNN) achieving a 92% diagnostic accuracy rate.
 
 👉 https://github.com/alokrk04/skin
-
 <br/>
 
 ### 🤖 Local AI RAG Agent
