@@ -33,6 +33,8 @@ Engineered a Convolutional Neural Network (CNN) achieving a 92% diagnostic accur
 
 👉 https://github.com/alokrk04/skin
 
+<br/>
+
 ### 🤖 Local AI RAG Agent
 Private, local AI retrieval tool built using LangChain, Ollama (llama3.2), and ChromaDB.
 
