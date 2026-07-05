@@ -38,6 +38,7 @@ Private, local AI retrieval tool built using LangChain, Ollama (llama3.2), and C
 
 👉 https://github.com/alokrk04/Local-AI-Agnet-RAG
 
+<br/>
 
 ### 📄 AI-Powered ATS Optimizer
 Modular full-stack application utilizing FastAPI and React to dynamically evaluate and enhance resumes.
