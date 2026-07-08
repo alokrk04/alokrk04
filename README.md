@@ -45,13 +45,6 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 
 ------------
 
-# 🔥 GitHub Streak
-
-<div align="center">
-  <a href="https://github.com/alokrk04">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokrk04&theme=tokyonight&hide_border=true&border_radius=15&v=1" alt="GitHub Streak"/>
-  </a>
-</div>
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
 
