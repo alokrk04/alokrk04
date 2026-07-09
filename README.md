@@ -44,12 +44,6 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 👉 https://github.com/alokrk04/AI-Powered-ATS-Resume-Optimizer
 
 ------------
-
-# 🔥 GitHub Streak
-
-<div align="center">
-  <a href="https://github.com/alokrk04">
-     <img src="https://github-readme-stat
   
 
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
