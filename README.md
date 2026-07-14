@@ -72,7 +72,7 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://alokrk-portfolio-website.netlify.app/">
+  <a href="https://alok-website-dusky.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:alokrk04@gmail.com">
