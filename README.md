@@ -44,16 +44,6 @@ Modular full-stack application utilizing FastAPI and React to dynamically evalua
 👉 https://github.com/alokrk04/AI-Powered-ATS-Resume-Optimizer
 
 ------------
-  
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"/> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alokrk04&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&border_radius=15&v=1" alt="Alok's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alokrk04&layout=compact&hide_border=true&theme=tokyonight&border_radius=15&langs_count=8&v=1" alt="Top Languages"/>
-</div>
-
-<br/>
 
 ## 📈 Contribution Graph
 
