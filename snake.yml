@@ -1,4 +1,4 @@
-# Save as: .github/workflows/snake.yml  (in the repo named exactly like your 
+# Save as: .github/workflows/snake.yml  (in the repo named exactly like yo
 name: Generate Snake
 
 on:
