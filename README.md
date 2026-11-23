@@ -4,7 +4,7 @@
 
 **Computer Science graduate (Class of 2026) · Bengaluru, India**
 
-I build ML and GenAI systems end to end: data → model → API → Docker.
+I build ML and GenAI systems end to end.
 
 <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-Data%20Science%20%7C%20ML%20%7C%20AI%20Engineer-16a34a?style=for-the-badge" alt="Open to work: Data Science, ML, AI Engineer" />
 
