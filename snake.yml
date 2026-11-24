@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # evey 1
+    - cron: "0 */12 * * *" # evey 
   workflow_dispatch: # manual run from the Actions 
   push:
     branches: [main]
