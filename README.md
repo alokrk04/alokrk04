@@ -1,4 +1,4 @@
-<div align="center"> #
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Alok%20Kondebettu&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Data%20Science%20%C2%B7%20Machine%20Learning%20%C2%B7%20AI%20Engineering&descAlignY=58&descSize=16" alt="Alok Kondebettu: Data Science, Machine Learning, AI Engineering" width="100%" />
 
