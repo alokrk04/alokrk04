@@ -3,7 +3,7 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch: # manual run from the Actions ta
+  workflow_dispatch: # manual run from the Actions t
   push:
     branches: [main]
 
