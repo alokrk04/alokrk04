@@ -8,7 +8,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: write # lets the job push the generated SVGs to the `output` branch
+  contents: write
 
 concurrency:
   group: snake
@@ -23,7 +23,7 @@ jobs:
       - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }} # your own account, resolves to alokrk04
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
